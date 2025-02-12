@@ -18,13 +18,13 @@ Olá, sou um **Desenvolvedor Full Stack** apaixonado por criar soluções inovad
 
 Abaixo estão alguns dos meus projetos mais recentes que demonstram minha experiência com **Backend**, **Frontend**, **IA**, e **Banco de Dados**. Fique à vontade para explorar os repositórios e ver como implemento essas tecnologias!
 
-- [Projeto 1 - Descrição breve do projeto]([link_para_o_repositorio](https://github.com/gusandrini/gs-2))
-- [Projeto 2 - Descrição breve do projeto]([link_para_o_repositorio](https://github.com/gusandrini/PortoCarCare-3))
-- [Projeto 3 - Descrição breve do projeto]([link_para_o_repositorio](https://github.com/gusandrini/gelinho))
+- [Projeto 1 - https://github.com/gusandrini/gs-2
+- [Projeto 2 - https://github.com/gusandrini/PortoCarCare-3
+- [Projeto 3 - https://github.com/gusandrini/gelinho
 
 ## 📞 Vamos nos conectar!
 
-Você pode me encontrar em meu [LinkedIn](www.linkedin.com/in/gustavo-oliveira-7311ba2ab).
+Você pode me encontrar em meu [LinkedIn]- www.linkedin.com/in/gustavo-oliveira-7311ba2ab.
 
 Fique à vontade para me contactar caso tenha algum projeto ou oportunidade interessante!
 
